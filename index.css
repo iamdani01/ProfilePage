@@ -1,0 +1,137 @@
+.navImg{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    align-self: center;
+}
+
+#body{
+    margin-top: -20px;
+}
+
+.project1{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+.project2{
+
+    border-bottom: 1px solid white;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.background{
+    margin-bottom: 20px;
+    margin-top: -20px;
+    height: fit-content;
+    width: fit-content;
+    position: relative;
+}
+
+.backgroundImg{
+    height: 100%;
+    width:100%;
+    position:sticky ;
+    display: block;
+}
+
+.sticky-top{
+    margin: 0;
+    position:fixed;
+    width: 100%;
+}
+
+.nav-link{
+    color: white;
+    font-weight: lighter;
+}
+
+#body{
+    position:-ms-page;
+}
+
+.tech{
+    border-top: 1px solid white;
+    align-items: center;
+}
+
+.abtMe{
+    margin: 20px;
+    box-sizing: inherit;
+    height: auto;
+}
+
+.navbar-brand{
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.techlogo{
+    height: 140px;
+    width: 140px;
+}
+
+.techlogos{
+    height: 120px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.techBox{
+    display: flex;
+    flex-direction: row;
+}
+
+.techLogos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.techDescription{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.links{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.links2{
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+}
+
+.contactLinks{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+}
+
+.indvLink{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.titles{
+    margin-left: 20px;
+}
