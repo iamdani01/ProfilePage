@@ -135,3 +135,12 @@
 .titles{
     margin-left: 20px;
 }
+
+.projects{
+    height: 250px;
+    margin: 20px;
+}
+
+.projectDescription{
+    display: flex;
+}
